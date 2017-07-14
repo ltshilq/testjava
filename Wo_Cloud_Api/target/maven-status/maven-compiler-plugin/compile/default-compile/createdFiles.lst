@@ -1,0 +1,8 @@
+com\wocloud\api\Wo_Cloud_Api\service\DeleteReSourceService.class
+com\wocloud\api\Wo_Cloud_Api\service\SshToClusterService.class
+com\wocloud\api\Wo_Cloud_Api\service\PodInsertToMybatisService.class
+com\wocloud\api\Wo_Cloud_Api\service\ElasticResourceService.class
+com\wocloud\api\Wo_Cloud_Api\service\ConnectClusterService.class
+com\wocloud\api\Wo_Cloud_Api\service\CreateSourceService.class
+com\wocloud\api\Wo_Cloud_Api\service\GetContainerParameterService.class
+com\wocloud\api\Wo_Cloud_Api\bean\TestPod.class
